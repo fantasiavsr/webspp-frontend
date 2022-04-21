@@ -19,24 +19,6 @@
 
                 <div class="col-8">
 
-                    {{-- <div class="card shadow-sm bg-white rounded-3" style="height: 160px" >
-                        <div class="card-body">
-                            <h7 class="card-subtitle mb-2 text-muted">Selamat Datang</h7>
-                            <h5 class="card-title">MUHAMAD ALIF RIZKI</h5>
-
-                        </div>
-                        <div class="container px-3 pb-2">
-                            <div class="row">
-                                <div class="col-sm-12 col-md-5">
-                                    <p class="mt-0 mb-0" style="color: #62666A">2041720196</p>
-                                </div>
-                                <div class="col-sm-12 col-md-7">
-                                    <button type="button" class="btn btn-outline-primary float-end">Primary</button>
-                                </div>
-                            </div>
-                        </div>
-                    </div> --}}
-
                     <div class="card shadow-sm bg-white rounded-3"  >
                         <div class="card-body">
                             <div class="row">
@@ -59,16 +41,6 @@
                 </div>
 
                 <div class="col">
-                    {{-- <div class="card shadow-sm text-light rounded-3" style="background-color: #576ACA; height: 160px">
-                        <div class="card-body">
-                            <h7 class="card-subtitle mb-2">SPP bulan ini</h7>
-                            <h5 class="card-title" style="font-size: 34px">SPP-4</h5>
-                        </div>
-                        <div class="container px-3">
-                            <p class="" style="">April 2022</p>
-                        </div>
-                    </div> --}}
-
                     <div class="card shadow-sm text-light rounded-3" style="background-color: #576ACA">
                         <div class="card-body">
                             <div class="row">

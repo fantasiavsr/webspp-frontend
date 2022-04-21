@@ -17,19 +17,7 @@
 
             <div class="row">
 
-
-
                 <div class="col">
-                    {{-- <div class="card shadow-sm text-light rounded-3" style="background-color: #576ACA; height: 160px">
-                        <div class="card-body">
-                            <h7 class="card-subtitle mb-2">SPP bulan ini</h7>
-                            <h5 class="card-title" style="font-size: 34px">SPP-4</h5>
-                        </div>
-                        <div class="container px-3">
-                            <p class="" style="">April 2022</p>
-                        </div>
-                    </div> --}}
-
                     <div class="card shadow-sm text-light rounded-3" style="background-color: #576ACA">
                         <div class="card-body">
                             <div class="row">
